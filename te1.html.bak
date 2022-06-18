@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="main2.css">
+  <title>스와이퍼 예제</title>
+  
+</head>
+<body>
+    <div class="menu" >
+      <nav class="clearfix">
+        <ul class="clearfix">
+		  <li> GOOD SOOL  </li>
+          <li><a href="webpage.html">Home</a></li> <!--""<-여기 부분에 URL 작성하면 됨-->
+          <li><a href="practice2.html">brewery</a></li>
+          <li><a href="jinwoo.html">Distilled beverage</a></li>
+          <li><a href="jaeHyeok_1.html">Liqueur</a></li>
+          <li><a href="wonki.html">Tradition</a></li>
+		</ul>
+			<a id="pull" href="#"></a>
+	   </nav>
+
+	</div>
+	<div class="cat">
+    <img src="sool3.png" />
+	</div>
+<main>
+  <div class="main-container">
+    <div class="temp-box1"> 증류주 </div>
+    <div class="temp-box1"> 양조주 </div>
+    <div class="temp-box1"> 혼성주 </div>
+    <div class="temp-box1"> 전통주 </div>
+  
+    <div class="temp-box-1"> <a href="jinwoo.html"> <img src="jrj.png"/> </a> </div>
+    <div class="temp-box-2"> <a href="practice2.html"> <img src="yjj.png"/> </a> </div>
+    <div class="temp-box-3"> <a href="jaeHyeok_1.html"><img src="hsj2.png"/> </a> </div>
+    <div class="temp-box"> <a href="wonki.html"> <img src="jtj.png"/> </a> </div>
+	
+    <div class="temp-box">  </div>
+    <div class="temp-box">  </div>
+    <div class="temp-box">  </div>
+    <div class="temp-box">  </div>
+  </div>
+  <div class="main-container1">
+    <div class="temp-box2"> 관련 영상</div>
+    <div class="temp-box2"> 건전한 술 문화</div>
+    <div class="temp-box2"> 관련 정보</div>
+    <div class="temp-box2"></div>
+  
+    <div class="temp-box"> <iframe width="560" height="315" src="https://www.youtube.com/embed/UNf7gpHtMHU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+    <div class="temp-box"> <a href="https://superdaddy2433.tistory.com/478"><img src="junjun.png"/> </a> </div>
+    <div class="temp-box"> <a href="https://www.mfds.go.kr/webzine/201612/04.jsp"><img src="soolinven.png"/> </a>  </div>
+    <div class="temp-box"> 
+
+	</div>
+	
+    <div class="temp-box">   </div>
+    <div class="temp-box">  </div>
+    <div class="temp-box">  </div>
+    <div class="temp-box">  </div>
+  </div>
+</main>
+</body>
+</html>
